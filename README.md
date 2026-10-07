@@ -24,7 +24,7 @@ _ Which Channel is contributing maximum to the sales?
 
 _ Highest selling category?
 
-_ Percentage of Total Orders delivered
+_ Percentage of Total Orders delivered.
 
 _ Dashboard Interaction <a href="https://github.com/rohangopalgawade/Vrinda-Store-Sales-Analysis/blob/main/Screenshot%202026-10-07%20173606.png">View Dashboard</a>
 
@@ -37,4 +37,7 @@ _The adult age group (30-49 yrs) is max contributing (~50%) and buys the most pr
 
 _The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
-_More than 90% of the products delivered
+_More than 90% of the products delivered.
+
+## Final Conclusion
+To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.

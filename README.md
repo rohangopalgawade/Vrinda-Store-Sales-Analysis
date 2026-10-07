@@ -26,4 +26,4 @@ _ Highest selling category?
 
 _ Percentage of Total Orders delivered
 
-_ Dashboard Interaction <a href="
+_ Dashboard Interaction <a href="https://github.com/rohangopalgawade/Vrinda-Store-Sales-Analysis/blob/main/Screenshot%202026-10-07%20173606.png">View Dashboard</a>

@@ -28,6 +28,20 @@ _ Percentage of Total Orders delivered.
 
 _ Dashboard Interaction <a href="https://github.com/rohangopalgawade/Vrinda-Store-Sales-Analysis/blob/main/Screenshot%202026-10-07%20173606.png">View Dashboard</a>
 
+## Process
+_Verify data for any missing values and anomalies, and sort out the same.
+
+_Made sure data is consistent and clean with respect to data type, data format and values used.
+
+_Created pivot tables according to the questions asked.
+
+_Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="915" height="399" alt="Screenshot 2026-10-07 173606" src="https://github.com/user-attachments/assets/2bbd8c63-5384-42f4-80b1-de50cbe954d0" />
+
+
+
 ## Project Insight
 _Women customers are more likely to buy products compared to men (~65%).
 

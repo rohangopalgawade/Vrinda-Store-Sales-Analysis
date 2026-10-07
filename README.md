@@ -20,20 +20,6 @@ _ List top 10 states contributingto the sales?
 
 _ Relation between age and gender based on number of orders.
 
-## Project Insight
-Women customers are more likely to buy products compared to men (~65%).
-
-The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-
-The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-
-The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-
-More than 90% of the products delivered
-
-
-
-
 _ Which Channel is contributing maximum to the sales?
 
 _ Highest selling category?
@@ -41,3 +27,14 @@ _ Highest selling category?
 _ Percentage of Total Orders delivered
 
 _ Dashboard Interaction <a href="https://github.com/rohangopalgawade/Vrinda-Store-Sales-Analysis/blob/main/Screenshot%202026-10-07%20173606.png">View Dashboard</a>
+
+## Project Insight
+_Women customers are more likely to buy products compared to men (~65%).
+
+_The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+
+_The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+
+_The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+
+_More than 90% of the products delivered

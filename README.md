@@ -29,13 +29,13 @@ The Vrinda Store wants to create an annual sales report for 2026. So that, the o
 - Dashboard Interaction <a href="https://github.com/rohangopalgawade/Vrinda-Store-Sales-Analysis/blob/main/Screenshot%202026-10-07%20173606.png">View Dashboard</a>
 
 ## Process
-_Verify data for any missing values and anomalies, and sort out the same.
+- Verify data for any missing values and anomalies, and sort out the same.
 
-_Made sure data is consistent and clean with respect to data type, data format and values used.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
 
-_Created pivot tables according to the questions asked.
+- Created pivot tables according to the questions asked.
 
-_Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
 <img width="915" height="399" alt="Screenshot 2026-10-07 173606" src="https://github.com/user-attachments/assets/2bbd8c63-5384-42f4-80b1-de50cbe954d0" />
@@ -43,15 +43,15 @@ _Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
 ## Project Insight
-_Women customers are more likely to buy products compared to men (~65%).
+- Women customers are more likely to buy products compared to men (~65%).
 
-_The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 
-_The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 
-_The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
 
-_More than 90% of the products delivered.
+- More than 90% of the products delivered.
 
 ## Final Conclusion
 To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
